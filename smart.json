@@ -1,0 +1,8 @@
+{
+  "name": "mask",
+  "description": "A jQuery Plugin to make masks on form fields and HTML elements.",
+  "homepage": "https://github.com/andrewreedy/meteor-mask",
+  "author": "Andrew Reedy",
+  "version": "0.0.1",
+  "git": "https://github.com/andrewreedy/meteor-mask.git"
+}
